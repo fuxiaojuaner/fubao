@@ -1,0 +1,2 @@
+如果npm版本是5.2以上版本，在cmd中输入 npx create-react-app my-app，
+如果npm版本低于5.2，则全局安装create-react-app，cmd输入npm install -g create-react-app；create-react-app下载完成后，cmd中输入create-react-app my-app
